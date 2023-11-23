@@ -1,3 +1,3 @@
 # gestion-de-projet-informatique
  
-|| projet : application de gestion de formation
+__projet : application de gestion de formation__
